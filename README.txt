@@ -4,6 +4,6 @@ In your terminal, inside the project, you should put:
 
 /venv/Scripts/activate
 
-Then you run python
+Then you run python on your Terminal
 
 python <script_name>.py
